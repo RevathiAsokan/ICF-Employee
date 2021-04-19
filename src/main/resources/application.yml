@@ -1,0 +1,7 @@
+
+jwt:
+  header: Authorization
+  route:
+    authentication:
+      path: auth
+      refresh: refresh

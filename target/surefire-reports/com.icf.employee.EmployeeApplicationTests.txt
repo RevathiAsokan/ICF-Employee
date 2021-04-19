@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.icf.employee.EmployeeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 20.32 s <<< FAILURE! - in com.icf.employee.EmployeeApplicationTests
+testUserRole  Time elapsed: 0.441 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.icf.employee.EmployeeApplicationTests.testUserRole(EmployeeApplicationTests.java:118)
+
